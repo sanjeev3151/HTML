@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>heading</title>
+  </head>
+<body>
+      <h1>This is First Heading.</h1>
+      <h2>This is second Heading.</h2>
+      <h3>This is third Heading.</h3>
+      <h4>This is forth Heading.</h4>
+      <h5>This is fifth Heading.</h5>
+      <h6>This is last Heading.</h6>
+
+</body>
+</html>
